@@ -1,8 +1,3 @@
-
-        a {
-            color: #20a53a
-        }
-    </style>
 </head>
 <body>
     <div class="container">
